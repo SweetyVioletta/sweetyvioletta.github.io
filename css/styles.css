@@ -77,6 +77,15 @@
             max-width:1000px;
             margin:0 auto
         }
+        .row p {
+            font-family:'nautilus_pompiliusregular', Arial, sans-serif;
+            font-weight:normal
+            text-align:center;
+            font-size:45px;
+            color:#645f54;
+            margin:0 0 20px;
+            text-shadow:2px 2px 0 #cfcbcb,0 0 5px rgba(255,255,255,0.75)
+        }
             .clearfix::after{
 
                 content:'';
@@ -90,6 +99,15 @@
                 font-weight:normal
             }
 
+                h1{
+
+                    text-align:center;
+                    font-size:62px;
+
+                    margin:0 0 20px;
+                    text-shadow:2px 2px 0 #cfcbcb,0 0 5px rgba(255,255,255,0.75)
+
+                }
                 h2{
 
                     text-align:center;
